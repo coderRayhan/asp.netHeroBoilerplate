@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Application\\MizanBro.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Application\\MizanBro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Application\\MizanBro.Application.csproj",
+        "projectName": "MizanBro.Application",
+        "projectPath": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Application\\MizanBro.Application.csproj",
+        "packagesPath": "C:\\Users\\ADDIE Soft Ltd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADDIE Soft Ltd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\MizanBro.Domain.csproj": {
+                "projectPath": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\MizanBro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCoreHero.Results": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "AspNetCoreHero.ThrowR": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\MizanBro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\MizanBro.Domain.csproj",
+        "projectName": "MizanBro.Domain",
+        "projectPath": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\MizanBro.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADDIE Soft Ltd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADDIE Soft Ltd\\Desktop\\MizanBro\\MizanBro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADDIE Soft Ltd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCoreHero.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

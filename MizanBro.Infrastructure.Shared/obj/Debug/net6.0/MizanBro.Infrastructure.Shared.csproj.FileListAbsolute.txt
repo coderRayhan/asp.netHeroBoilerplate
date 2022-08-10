@@ -1,0 +1,17 @@
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Infrastructure.Shared.deps.json
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Infrastructure.Shared.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Infrastructure.Shared.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Application.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Domain.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Application.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\bin\Debug\net6.0\MizanBro.Domain.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\refint\MizanBro.Infrastructure.Shared.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\MizanBro.Infrastructure.Shared.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Infrastructure.Shared\obj\Debug\net6.0\ref\MizanBro.Infrastructure.Shared.dll

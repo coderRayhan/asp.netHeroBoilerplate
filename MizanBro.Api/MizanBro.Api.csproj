@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DocumentationFile>MizanBro.Api.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+    </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspNetCoreHero.Extensions.Logging" Version="1.0.0" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.0" NoWarn="NU1605" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MizanBro.Application\MizanBro.Application.csproj" />
+    <ProjectReference Include="..\MizanBro.Infrastructure.Shared\MizanBro.Infrastructure.Shared.csproj" />
+    <ProjectReference Include="..\MizanBro.Infrastructure\MizanBro.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

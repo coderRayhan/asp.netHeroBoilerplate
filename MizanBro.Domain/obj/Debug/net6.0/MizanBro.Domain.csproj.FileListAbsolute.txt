@@ -1,0 +1,12 @@
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\bin\Debug\net6.0\MizanBro.Domain.deps.json
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\bin\Debug\net6.0\MizanBro.Domain.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\bin\Debug\net6.0\MizanBro.Domain.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.csproj.AssemblyReference.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.AssemblyInfoInputs.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.AssemblyInfo.cs
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\refint\MizanBro.Domain.dll
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\MizanBro.Domain.pdb
+C:\Users\ADDIE Soft Ltd\Desktop\MizanBro\MizanBro.Domain\obj\Debug\net6.0\ref\MizanBro.Domain.dll

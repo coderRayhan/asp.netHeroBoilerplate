@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8uLtB6msfFw00waOtHhqrsNaT8i3B9zz1TOFf7+d4JQ=",
+  "Source": "MizanBro.Api",
+  "BasePath": "_content/MizanBro.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
